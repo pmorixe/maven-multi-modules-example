@@ -10,7 +10,15 @@
 
 	<artifactId>proyect1</artifactId>
 	<packaging>war</packaging>
-
+	
+	
+	<dependencies>
+		<dependency>
+			<groupId>ar.pmorixe.example</groupId>
+			<artifactId>common</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+	</dependencies>
 
 
 </project>
